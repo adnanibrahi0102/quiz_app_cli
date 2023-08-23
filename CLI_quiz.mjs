@@ -89,6 +89,6 @@ if (score > 0) {
     console.log(chalk.bgYellow("your score is : " + score));
     
 }
-if(score>-5){
+if(score>=15){
     console.log(chalk.bgGreenBright("YAY...YOU WIN.."))
 }
